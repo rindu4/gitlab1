@@ -1,2 +1,1 @@
-rindu c 
-jnnc of engineering
+printf("good morning")
